@@ -39,4 +39,33 @@
 - Paper - Could not find a paper
 - Slides
 
+> Learning to Learn, Deep Learning for Robotics, Deep Reinforcement Learning, AI for Manufacturing and Logistics
+- Notes: I did not find an OpenAI baseline for this method. I think this is very appreciable to SC2. It allows few-shot adaptation to new environments and opponents. The biggest challenge I foresee is that we would still need the heartbeat to propagate rewards back to the agent which is very slow. Meaning that the few-shot adaptation will still take to much time. 
+- Paper [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://github.com/nmharmon8/GTC-2018/raw/master/papers/1703.03400.pdf) and [Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments](https://github.com/nmharmon8/GTC-2018/raw/master/papers/1710.03641.pdf)
+- Slides
+
+> Towards Lifelong Reinforcement Learning
+- Notes: I think the previous approach is more applicable, but this is still interesting. 
+- Paper [Investigating Human Priors for Playing Video Games](https://github.com/nmharmon8/GTC-2018/raw/master/papers/1802.10217.pdf)
+- Slides 
+
+> IamNN: Iterative and Adaptive Mobile Neural Network for Efficient Image Classification
+- Notes: Interesting analysis of ResNet. Would be interesting to explore adaptive computation on DeepSigint. Can scale computation based on available hardware and workload, which would be useful in a production environment. 
+- Paper [IamNN: Iterative and Adaptive Mobile Neural Network for efficient image Classification](https://github.com/nmharmon8/GTC-2018/raw/master/papers/6eed1ee749e3b54fa92881d54a1a3dffb5716933.pdf)
+- Slides 
+
+> Not Just a Black Box: Interpretable Deep Learning for Genomics and Beyond. 
+- Notes: This paper provides a way to determine which inputs were most important to the task. I missed the first part of the talk where this algorithm was explained, so I don't know how good it is. The speaker impressed me in the rest of the talk so I expect that it is interesting. 
+- Paper [Learning Important Features Through Propagating Activation Differences](https://github.com/nmharmon8/GTC-2018/raw/master/papers/1704.02685.pdf)
+- Slides
+
+# Interests
+- Sentinel 1&2 satellite -- Free satellite data
+- Unified memory on TX2 -- managed_malloc
+- Speech commands dataset Google
+- Persistent kernels Cuda
+- GPU direct RDMA
+- Domain Generation Algorithms
+- TensorRT
+- Object classification using unordered point clouds
 
