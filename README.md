@@ -1,4 +1,5 @@
 # GTC 2018 Knowledge Dump
+[GH-Pages](https://nmharmon8.github.io/GTC-2018/)
 # Papers of interest in no particular order
 - [Embodied Question Answering (Towards AI Agents that can see talk and act)](https://github.com/nmharmon8/GTC-2018/raw/master/papers/123987.928374.pdf)
 - [Semi-supervised Learning with Deep Generative Models](https://github.com/nmharmon8/GTC-2018/raw/master/papers/1406.5298.pdf)
